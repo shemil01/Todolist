@@ -9,6 +9,7 @@ const Home = () => {
         <Link to="/Home" >Home</Link>
         <Link to="/login" style={{textDecoration:"none" }}>Login</Link>
         <Link to="/Registration" style={{textDecoration:"none"}}>Registration</Link>
+        
         </div>
     </div>
   )
